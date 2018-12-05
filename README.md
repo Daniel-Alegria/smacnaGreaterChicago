@@ -7,6 +7,11 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ---
+Copyright (C) ClickSafety, Inc - All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential
+Written by (danny@stylettodesign.com)[Daniel Alegria], December 2018
+---
 
 ## Carousel Image Gallery
 
